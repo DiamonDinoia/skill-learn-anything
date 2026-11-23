@@ -1,0 +1,15 @@
+{
+  "name": "learn-anything",
+  "description": "Tutoring skill for coding agents.",
+  "owner": {
+    "name": "Marco Barbone"
+  },
+  "plugins": [
+    {
+      "name": "learn-anything",
+      "source": "./",
+      "description": "Teach any topic, practical skills included, to a tested level: baseline, diagnostic, matched material, evidence-graded tests, spaced review.",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "learn-anything",
+  "description": "Teach any topic, practical skills included, to a tested level: baseline, diagnostic, matched material, evidence-graded tests, spaced review.",
+  "version": "0.1.0",
+  "author": { "name": "Marco Barbone", "url": "https://github.com/DiamonDinoia" },
+  "homepage": "https://github.com/DiamonDinoia/skill-learn-anything",
+  "repository": "https://github.com/DiamonDinoia/skill-learn-anything",
+  "license": "MIT",
+  "keywords": ["skills", "learning", "tutor", "spaced-repetition", "fsrs"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "learn-anything",
+    "shortDescription": "Tutor any topic to a tested level",
+    "longDescription": "Asks for the learner's baseline, corrects it with a diagnostic, matches material to the level, grades answers on evidence (execution, measurement, photo, third person, self-report), and schedules spaced review with FSRS from an append-only log.",
+    "category": "Productivity",
+    "capabilities": ["Instructions"]
+  }
+}
